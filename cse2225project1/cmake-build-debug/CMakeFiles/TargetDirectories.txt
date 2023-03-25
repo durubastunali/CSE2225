@@ -1,3 +1,0 @@
-C:/Users/durub/CLionProjects/cse2225project1/cmake-build-debug/CMakeFiles/cse2225project1.dir
-C:/Users/durub/CLionProjects/cse2225project1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/durub/CLionProjects/cse2225project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
