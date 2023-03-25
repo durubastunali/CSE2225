@@ -1,0 +1,3 @@
+C:/Users/durub/CLionProjects/AVL&Splay/cmake-build-debug/CMakeFiles/AVL_Splay.dir
+C:/Users/durub/CLionProjects/AVL&Splay/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/durub/CLionProjects/AVL&Splay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
